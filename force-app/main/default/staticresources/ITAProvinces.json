@@ -1,0 +1,644 @@
+[
+  {
+    "Province": "Agrigento",
+    "Code": "AG",
+    "Region": "Sicily",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Alessandria",
+    "Code": "AL",
+    "Region": "Piedmont",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Ancona",
+    "Code": "AN",
+    "Region": "Marche",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Aosta",
+    "Code": "AO",
+    "Region": "Aosta Valley",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Arezzo",
+    "Code": "AR",
+    "Region": "Tuscany",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Ascoli Piceno",
+    "Code": "AP",
+    "Region": "Marche",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Asti",
+    "Code": "AT",
+    "Region": "Piedmont",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Avellino",
+    "Code": "AV",
+    "Region": "Campania",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Bari",
+    "Code": "BA",
+    "Region": "Apulia",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Barletta-Andria-Trani",
+    "Code": "BT",
+    "Region": "Apulia",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Belluno",
+    "Code": "BL",
+    "Region": "Veneto",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Benevento",
+    "Code": "BN",
+    "Region": "Campania",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Bergamo",
+    "Code": "BG",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Biella",
+    "Code": "BI",
+    "Region": "Piedmont",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Bologna",
+    "Code": "BO",
+    "Region": "Emilia-Romagna",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Brescia",
+    "Code": "BS",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Brindisi",
+    "Code": "BR",
+    "Region": "Apulia",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Cagliari",
+    "Code": "CA",
+    "Region": "Sardinia",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Caltanissetta",
+    "Code": "CL",
+    "Region": "Sicily",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Campobasso",
+    "Code": "CB",
+    "Region": "Molise",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Caserta",
+    "Code": "CE",
+    "Region": "Campania",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Catania",
+    "Code": "CT",
+    "Region": "Sicily",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Catanzaro",
+    "Code": "CZ",
+    "Region": "Calabria",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Chieti",
+    "Code": "CH",
+    "Region": "Abruzzo",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Como",
+    "Code": "CO",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Cosenza",
+    "Code": "CS",
+    "Region": "Calabria",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Cremona",
+    "Code": "CR",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Crotone",
+    "Code": "KR",
+    "Region": "Calabria",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Cuneo",
+    "Code": "CN",
+    "Region": "Piedmont",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Enna",
+    "Code": "EN",
+    "Region": "Sicily",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Fermo",
+    "Code": "FM",
+    "Region": "Marche",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Ferrara",
+    "Code": "FE",
+    "Region": "Emilia-Romagna",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Florence",
+    "Code": "FI",
+    "Region": "Tuscany",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Foggia",
+    "Code": "FG",
+    "Region": "Apulia",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Forlì-Cesena",
+    "Code": "FC",
+    "Region": "Emilia-Romagna",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Frosinone",
+    "Code": "FR",
+    "Region": "Lazio",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Genoa",
+    "Code": "GE",
+    "Region": "Liguria",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Gorizia",
+    "Code": "GO",
+    "Region": "Friuli-Venezia Giulia",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Grosseto",
+    "Code": "GR",
+    "Region": "Tuscany",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Imperia",
+    "Code": "IM",
+    "Region": "Liguria",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Isernia",
+    "Code": "IS",
+    "Region": "Molise",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "L'Aquila",
+    "Code": "AQ",
+    "Region": "Abruzzo",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "La Spezia",
+    "Code": "SP",
+    "Region": "Liguria",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Latina",
+    "Code": "LT",
+    "Region": "Lazio",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Lecce",
+    "Code": "LE",
+    "Region": "Apulia",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Lecco",
+    "Code": "LC",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Livorno",
+    "Code": "LI",
+    "Region": "Tuscany",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Lodi",
+    "Code": "LO",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Lucca",
+    "Code": "LU",
+    "Region": "Tuscany",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Macerata",
+    "Code": "MC",
+    "Region": "Marche",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Mantua",
+    "Code": "MN",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Massa and Carrara",
+    "Code": "MS",
+    "Region": "Tuscany",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Matera",
+    "Code": "MT",
+    "Region": "Basilicata",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Messina",
+    "Code": "ME",
+    "Region": "Sicily",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Milan",
+    "Code": "MI",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Modena",
+    "Code": "MO",
+    "Region": "Emilia-Romagna",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Monza and Brianza",
+    "Code": "MB",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Naples",
+    "Code": "NA",
+    "Region": "Campania",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Novara",
+    "Code": "NO",
+    "Region": "Piedmont",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Nuoro",
+    "Code": "NU",
+    "Region": "Sardinia",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Oristano",
+    "Code": "OR",
+    "Region": "Sardinia",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Padua",
+    "Code": "PD",
+    "Region": "Veneto",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Palermo",
+    "Code": "PA",
+    "Region": "Sicily",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Parma",
+    "Code": "PR",
+    "Region": "Emilia-Romagna",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Pavia",
+    "Code": "PV",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Perugia",
+    "Code": "PG",
+    "Region": "Umbria",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Pesaro and Urbino",
+    "Code": "PU",
+    "Region": "Marche",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Pescara",
+    "Code": "PE",
+    "Region": "Abruzzo",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Piacenza",
+    "Code": "PC",
+    "Region": "Emilia-Romagna",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Pisa",
+    "Code": "PI",
+    "Region": "Tuscany",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Pistoia",
+    "Code": "PT",
+    "Region": "Tuscany",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Pordenone",
+    "Code": "PN",
+    "Region": "Friuli-Venezia Giulia",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Potenza",
+    "Code": "PZ",
+    "Region": "Basilicata",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Prato",
+    "Code": "PO",
+    "Region": "Tuscany",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Ragusa",
+    "Code": "RG",
+    "Region": "Sicily",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Ravenna",
+    "Code": "RA",
+    "Region": "Emilia-Romagna",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Reggio Calabria",
+    "Code": "RC",
+    "Region": "Calabria",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Reggio Emilia",
+    "Code": "RE",
+    "Region": "Emilia-Romagna",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Rieti",
+    "Code": "RI",
+    "Region": "Lazio",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Rimini",
+    "Code": "RN",
+    "Region": "Emilia-Romagna",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Rome",
+    "Code": "RM",
+    "Region": "Lazio",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Rovigo",
+    "Code": "RO",
+    "Region": "Veneto",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Salerno",
+    "Code": "SA",
+    "Region": "Campania",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Sassari",
+    "Code": "SS",
+    "Region": "Sardinia",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Savona",
+    "Code": "SV",
+    "Region": "Liguria",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Siena",
+    "Code": "SI",
+    "Region": "Tuscany",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Sondrio",
+    "Code": "SO",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "South Sardinia",
+    "Code": "SU",
+    "Region": "Sardinia",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "South Tyrol",
+    "Code": "BZ",
+    "Region": "Trentino-South Tyrol",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Syracuse",
+    "Code": "SR",
+    "Region": "Sicily",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Taranto",
+    "Code": "TA",
+    "Region": "Apulia",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Teramo",
+    "Code": "TE",
+    "Region": "Abruzzo",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Terni",
+    "Code": "TR",
+    "Region": "Umbria",
+    "Macroregion": "Centre"
+  },
+  {
+    "Province": "Trapani",
+    "Code": "TP",
+    "Region": "Sicily",
+    "Macroregion": "Insular"
+  },
+  {
+    "Province": "Trento",
+    "Code": "TN",
+    "Region": "Trentino-South Tyrol",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Treviso",
+    "Code": "TV",
+    "Region": "Veneto",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Trieste",
+    "Code": "TS",
+    "Region": "Friuli-Venezia Giulia",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Turin",
+    "Code": "TO",
+    "Region": "Piedmont",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Udine",
+    "Code": "UD",
+    "Region": "Friuli-Venezia Giulia",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Varese",
+    "Code": "VA",
+    "Region": "Lombardy",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Venice",
+    "Code": "VE",
+    "Region": "Veneto",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Verbano-Cusio-Ossola",
+    "Code": "VB",
+    "Region": "Piedmont",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Vercelli",
+    "Code": "VC",
+    "Region": "Piedmont",
+    "Macroregion": "North-West"
+  },
+  {
+    "Province": "Verona",
+    "Code": "VR",
+    "Region": "Veneto",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Vibo Valentia",
+    "Code": "VV",
+    "Region": "Calabria",
+    "Macroregion": "South"
+  },
+  {
+    "Province": "Vicenza",
+    "Code": "VI",
+    "Region": "Veneto",
+    "Macroregion": "North-East"
+  },
+  {
+    "Province": "Viterbo",
+    "Code": "VT",
+    "Region": "Lazio",
+    "Macroregion": "Centre"
+  }
+]
