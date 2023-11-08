@@ -18,7 +18,7 @@ public class AssignAccountsBatchSchedule implements Database.Batchable<SObject>,
     public void execute(Database.BatchableContext BC, List<Account> scope) {
         HelperClass helper = new HelperClass();
 
-        List<SObject> territoriesUSBR = Database.query('SELECT Id, ParentTerritory2.ParentTerritory2Id, Name FROM Territory2 WHERE ParentTerritory2.ParentTerritory2.Name IN (\'Brazil\',\'United States of America\'');
+        List<SObject> territoriesUSBR = Database.query('SELECT Id, ParentTerritory2.ParentTerritory2Id, Name FROM Territory2 WHERE ParentTerritory2.ParentTerritory2.Name IN (\'Brazil\',\'United States of America\')');
         List<SObject> territoriesITA = Database.query('SELECT Id, ParentTerritory2.ParentTerritory2.ParentTerritory2Id, Name FROM Territory2 WHERE ParentTerritory2.ParentTerritory2.ParentTerritory2.Name IN (\'Italy\')');
         Map<Id, List<SObject>> territoriesByCountry = helper.getMapByFieldId('ParentTerritory2.ParentTerritory2Id', territoriesUSBR);
         territoriesByCountry.putAll(helper.getMapByFieldId('ParentTerritory2.ParentTerritory2.ParentTerritory2Id', territoriesITA));
